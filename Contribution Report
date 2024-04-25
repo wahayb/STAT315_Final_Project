@@ -1,0 +1,6 @@
+Contribution Report for Team 6
+
+Jessica: Cleaned, pre-processed and created visualizations of the data. Helped build and tune the classifier models.
+Jana: Created the docker image to host the jupyter notebook and all the correct package versions. Helped tune and build classifier models. 
+Madhawi: Helped clean, pre-process and create visualizations. Added analysis to our results and reporting. Wrote the instructions on how to access the docker container to view our project.
+Wahayb: Found the dataset used. Created the github repository to store our project files. Helped built and tune the classifier models. Ensured the docker image ran successfully. 
