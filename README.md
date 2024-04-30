@@ -9,7 +9,7 @@ Unzip it and place it in a known directory.
 
 Open the Terminal or PowerShell and navigate into the project folder.
 
-Run the following command without the quotation marks in order to build the image and make it available “docker build -t project: 0.0.1 .”
+Run the following command without the quotation marks in order to build the image and make it available “docker build -t project:0.0.1 .”
 ### Step 2: Accessing the Notebook
 Start the container by running the following command in the Terminal or PowerShell without the quotation marks with ensuring that X is the correct file path “docker run -v X :/home/notebooks -p 8888:888 - -name pynb_devcontainer_new project:0.0.1”
 
